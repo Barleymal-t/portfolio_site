@@ -1,7 +1,9 @@
 body{
     display: flex;
-    flex direction: column;
+    flex-direction: column;
     background-color: aqua;
+    justify-content: center;
+    text-align: center;
 }
 .intro{
 font-weight: 400;
@@ -10,7 +12,8 @@ color: aliceblue;
 padding: 25px;
 }
 
-.icons-social{
+.icons-social a{
 padding: 10px;
 color: goldenrod;
+align-self: center;
 }
