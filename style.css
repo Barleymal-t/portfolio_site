@@ -1,14 +1,12 @@
 body{
     display: flex;
     flex-direction: column;
-    background-color: aqua;
     justify-content: center;
     text-align: center;
 }
 .intro{
 font-weight: 400;
 font-size: 100px;
-color: aliceblue;
 padding: 25px;
 }
 
