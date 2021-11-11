@@ -1,5 +1,6 @@
 body{
-    background-image: url(macbook.jpg) no-repeat;
+    background-image: url(macbook.jpg);
+    background-repeat: no-repeat;
     background-size: cover;
     display: flex;
     flex-direction: column;
