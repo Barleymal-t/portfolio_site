@@ -1,5 +1,5 @@
 body{
-    background-image: url(macbook.jpg)
+    background-image: url(macbook.jpg);
     display: flex;
     flex-direction: column;
     justify-content: center;
