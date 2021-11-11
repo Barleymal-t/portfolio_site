@@ -6,6 +6,7 @@ body{
     flex-direction: column;
     justify-content: center;
     text-align: center;
+    color: goldenrod;
 }
 .intro{
 font-weight: 400;
